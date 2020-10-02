@@ -1,2 +1,2 @@
 # pokemon
-website showing pokemon strongest
+Website showing strongest Pokemon.
